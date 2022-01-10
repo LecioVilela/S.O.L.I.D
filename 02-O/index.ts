@@ -1,3 +1,5 @@
+// Princípio do Aberto/Fechado - Open/Closed Principle
+
 interface IPerson {
     getNome(): string
     welcome(): string
