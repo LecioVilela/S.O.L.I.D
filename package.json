@@ -1,0 +1,26 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "dev": "ts-node-dev --respawn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LecioVilela/S.O.L.I.D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LecioVilela/S.O.L.I.D/issues"
+  },
+  "homepage": "https://github.com/LecioVilela/S.O.L.I.D#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}

@@ -1,3 +1,5 @@
+// Princípio da Responsabilidade Única - Single Responsability Principle
+
 // Exemplo errado
 
 type Database = {
