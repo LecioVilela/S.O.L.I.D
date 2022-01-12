@@ -1,3 +1,5 @@
+// Princípio da Inversão de Dependência - Dependency Inversion Principle
+
 interface IBook {
     name: string
 }
